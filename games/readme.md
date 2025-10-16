@@ -3,10 +3,10 @@ Please format it like this.
 games
 |
 |----sample *1
-     |
-     |----main.py *2
-     |
-     |----icon.png *3
+.....|
+.....|----main.py *2
+.....|
+.....|----icon.png *3
 
 
 *1 This name is the name displayed in the launcher.
